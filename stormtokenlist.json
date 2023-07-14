@@ -1,12 +1,7 @@
 {
   "name": "StormSwap Token List",
-  "timestamp": "2023-07-14T12:54:28.352Z",
-  "version": {
-    "major": 1,
-    "minor": 0,
-    "patch": 0
-  },
   "logoURI": "raw.githubusercontent.com/STMSwap/tokenlist/352b3a3d18616dad5098b9273c54bcc47049b8e3/logo192.png",
+  "timestamp": "2023-07-14T12:54:28.352Z",
   "tokens": [
     {
       "chainId": 1101,
@@ -16,5 +11,10 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/PureStake/moonbase-mintableERC20/main/mintableERC20-interface/public/logos/White_Icon.svg"
     }
-  ]
+  ],
+    "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
