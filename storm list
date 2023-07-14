@@ -1,0 +1,20 @@
+{
+  "name": "StormSwap Token List",
+  "logoURI": "https://github.com/STMSwap/tokenlist/blob/main/logo192.png?raw=true",
+  "timestamp": "2023-07-14T12:54:28.352Z",
+  "tokens": [
+    {
+      "chainId": 1101,
+      "name": "MATIC",
+      "address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+    }
+  ],
+    "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
